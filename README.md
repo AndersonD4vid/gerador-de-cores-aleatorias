@@ -10,3 +10,5 @@
 - Math.floor()
 - Math.random()
 - array.length
+
+Live demo: https://gerador-de-cores-aleatorias.vercel.app/
