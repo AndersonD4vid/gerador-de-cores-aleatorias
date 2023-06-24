@@ -1,6 +1,6 @@
 # Nesse projeto gerador de cores aleatórias, manipulamos o DOM para alterar a cor de fundo da página.
 
-# Conceitos importantes tratados nesse tutorial:
+# Conceitos importantes tratados nesse projeto:
 
 - arrays
 - document.getElementById()
